@@ -1,0 +1,405 @@
+AWSTATS DATA FILE 7.8 (build 20200416)
+# If you remove this file, all statistics for date 202302 will be lost/reset.
+# Last config file used to build this data file was /home1/hkcent24/tmp/awstats/ssl/awstats.hkcent.org.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2012                
+POS_TIME 2672                
+POS_VISITOR 9635                
+POS_DAY 11471               
+POS_DOMAIN 3349                
+POS_LOGIN 3698                
+POS_ROBOT 3853                
+POS_WORMS 4194                
+POS_EMAILSENDER 4325                
+POS_EMAILRECEIVER 4468                
+POS_SESSION 11984               
+POS_SIDER 12143               
+POS_FILETYPES 4603                
+POS_DOWNLOADS 4745                
+POS_OS 4793                
+POS_BROWSER 4979                
+POS_SCREENSIZE 5360                
+POS_UNKNOWNREFERER 5434                
+POS_UNKNOWNREFERERBROWSER 6288                
+POS_ORIGIN 6837                
+POS_SEREFERRALS 6971                
+POS_PAGEREFS 7115                
+POS_SEARCHWORDS 7290                
+POS_KEYWORDS 7442                
+POS_MISC 2335                
+POS_ERRORS 7501                
+POS_CLUSTER 3554                
+POS_SIDER_404 7648                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20230301072558 1 0 16791329546608
+FirstTime 0
+LastTime 20230228184720
+LastUpdate 20230302064025 1 0 0 0 0
+TotalVisits 43                  
+TotalUnique 40                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 48                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+TotalMisc 0 0 0
+JavascriptDisabled 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+PDFSupport 0 0 0
+RealPlayerSupport 0 0 0
+FlashSupport 0 0 0
+DirectorSupport 0 0 0
+AddToFavourites 0 49 0
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 8 8 15932 11 18 9319
+1 2 2 7124 26 39 4815
+2 0 0 0 11 21 498
+3 4 4 5872 11 22 11183
+4 0 0 0 10 23 4384
+5 4 18 816237 8 23 11754
+6 6 6 17184 23 29 6945
+7 2 2 2936 6 12 37902
+8 10 10 14680 23 52 10890
+9 7 8 11096 6 14 656
+10 2 2 2936 18 30 5098
+11 3 3 8592 9 13 7795
+12 2 2 2936 17 32 4567
+13 1 1 1468 12 12 897
+14 4 4 10060 9 21 6972
+15 4 4 10060 13 26 14140
+16 5 5 7340 105 122 17088
+17 3 3 8592 18 18 4996
+18 20 20 358298 8 13 2068
+19 0 0 0 26 28 7628
+20 2 21 1614404 11 19 6754
+21 6 16 819140 10 22 10369
+22 0 0 0 3 8 72796
+23 2 2 7124 6 16 3842
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 10
+us 44 67 2084780
+se 22 22 32296
+cn 10 10 31432
+in 8 22 830485
+ca 4 4 14248
+de 4 4 5872
+gb 2 2 2936
+be 2 2 2936
+mu 1 1 1468
+ie 0 7 735558
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 6
+YandexBot/ 26 38168 20230228080309 0
+bingbot/ 23 114476 20230228225219 0
+no_user_agent 12 42744 20230225111123 0
+crawl 6 4338 20230215174818 0
+curl 2 7124 20230205005947 0
+LinkedInBot/ 2 2936 20230205124913 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 5
+js 1 352 0 0
+html 95 510996 0 0
+png 38 3227104 0 0
+php 2 0 0 0
+css 5 3559 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 8
+ios_iphone 12 2
+macosx14 2 2
+androidmarshmallow 2 2
+macosx11 8 8
+Unknown 39 30
+androidkitkat 4 4
+win10 60 36
+linux 14 13
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 17
+firefox83.0 1 1
+chrome58.0.3029.110 2 2
+firefox47.0 8 8
+chrome108.0.0.0 12 2
+chrome83.0.4103.97 8 8
+chrome81.0.4044.138 2 2
+edge17 2 2
+chrome76.0.3809.132 2 2
+chrome89.0.4389.82 3 2
+chrome91.0.4472.124 2 2
+android 4 4
+Unknown 29 20
+chrome105.0.0.0 22 22
+chrome110.0.0.0 18 4
+mozilla 10 10
+chrome89.0.4389.90 4 4
+safari15.6.1 12 2
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 8
+WordPress.com;_https://hkcent.org/Dagengo 20230218184215
+Jetpack_by_WordPress.com 20230218184225
+Mozilla/5.0_(compatible;_InternetMeasurement/1.0;__https://internet-measurement.com/) 20230225145339
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20230223145709
+WordPress/6.1.1;_https://hkcent.org/Dagengo 20230218184251
+Mozilla/5.0_(compatible;_CensysInspect/1.1;__https://about.censys.io/) 20230228184720
+cortex/1.0 20230223204135
+Mozilla/5.0_zgrab/0.x_(compatible;_Researchscan/http;__http://researchscan.comsys.rwth-aachen.de) 20230217095026
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 5
+WordPress/6.1.1;_https://hkcent.org/Dagengo 20230218184251
+WordPress.com;_https://hkcent.org/Dagengo 20230218184215
+Jetpack_by_WordPress.com 20230218184225
+cortex/1.0 20230223204135
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20230223145709
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 77 87
+From1 0 0
+From2 0 0
+From3 2 2
+From4 18 52
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 1
+https://l.facebook.com 2 2
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 6
+406 91 20566
+301 2 470
+404 254 4318
+409 12 996
+206 4 5872
+400 126 6032
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 46
+/___proxy_subdomain_webdisk/TP/public/index.php 1 -
+/___proxy_subdomain_cpanel/robots.txt 5 -
+/ 27 -
+/sitemap.xml 7 -
+/sitemap.xml.gz 2 -
+/___proxy_subdomain_cpanel/ 3 -
+/wp-content/plugins/ioptimization/IOptimize.php 2 www.google.com
+/___proxy_subdomain_cpcontacts/wp-content/plugins/seoplugins/mar.php 1 www.google.com
+/wp-plain.php 1 www.google.com
+/___proxy_subdomain_cpcalendars/sitemap.xml 1 -
+/sitemap.txt 4 -
+//a/Telerik.Web.UI.WebResource.axd 1 -
+/sitemap_index.xml 4 -
+/___proxy_subdomain_webdisk/sqlbuddy/login.php 1 -
+/tos 2 -
+/hrsxsewm.php 2 www.google.com
+/.ftpconfig 2 -
+/___proxy_subdomain_webdisk/400.shtml 2 -
+/___proxy_subdomain_webmail/robots.txt 6 -
+/TP/public/index.php 1 -
+/.git/config 1 -
+/sqlbuddy/login.php 1 -
+/___proxy_subdomain_cpcontacts/ 2 -
+/sitemaps.xml 4 -
+/wp-content/themes/seotheme/mar.php 2 www.google.com
+/docs/_sidebar.md 2 -
+/___proxy_subdomain_webdisk/robots.txt 5 -
+/___proxy_subdomain_webmail/sitemap.xml 1 -
+/wp-content/plugins/seoplugins/mar.php 2 www.google.com
+/___proxy_subdomain_cpcalendars/wp-content/plugins/seoplugins/mar.php 1 www.google.com
+/___proxy_subdomain_cpcontacts/robots.txt 4 -
+/___proxy_subdomain_cpcalendars/robots.txt 5 -
+/___proxy_subdomain_webmail/ 13 -
+/.git/ 2 -
+/wp-cron.php 2 -
+/robots.txt 113 -
+/___proxy_subdomain_cpcalendars/ 2 -
+/staff 2 -
+/___proxy_subdomain_webdisk/.git/config 1 -
+/___proxy_subdomain_cpcalendars/wp-content/themes/seotheme/mar.php 1 www.google.com
+/___proxy_subdomain_webdisk/sitemap.xml 1 -
+/Schedule.html 2 -
+/index.php 2 -
+/a/Telerik.Web.UI.WebResource.axd 1 -
+/___proxy_subdomain_cpcontacts/wp-content/themes/seotheme/mar.php 1 www.google.com
+/___proxy_subdomain_webdisk/ 6 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 48
+192.254.188.250 12 12 293448 20230218184251
+183.136.225.45 4 4 14248 20230221232104
+192.0.116.211 4 4 58978 20230218184225
+103.172.41.147 4 18 816237 20230214052630
+193.235.141.19 4 4 5872 20230210162946
+103.167.135.72 4 4 14248 20230216062311
+137.226.113.44 4 4 5872 20230217095026
+52.34.186.23 2 2 2936 20230220084611
+193.235.141.60 2 2 2936 20230228104824
+54.166.175.134 2 2 7124 20230226150922
+205.210.31.20 2 2 7124 20230222005632
+35.86.145.187 2 2 2936 20230222081526
+3.111.98.240 2 12 809080 20230223210812
+8.218.149.237 2 2 2936 20230221034906
+167.94.138.46 2 2 2936 20230228184720
+121.4.105.222 2 2 2936 20230208155038
+193.235.141.127 2 2 2936 20230202165314
+193.235.141.145 2 2 2936 20230217210009
+217.151.98.69 2 2 2936 20230227061033
+87.236.176.251 2 2 2936 20230225145339
+193.235.141.143 2 2 2936 20230208004002
+207.244.241.132 2 2 7124 20230212114611
+193.235.141.142 2 2 2936 20230223031658
+34.221.131.76 2 2 2936 20230212083237
+193.235.141.120 2 2 2936 20230225184119
+69.171.251.17 0 1 72642 
+31.13.127.14 0 2 48916 
+216.131.84.81 1 1 1468 20230216112836
+154.127.53.163 1 1 1468 20230211161210
+31.13.103.9 0 1 72642 
+173.252.107.8 0 1 65865 
+69.171.251.20 2 8 180905 20230223204059
+173.252.127.1 0 1 3901 
+54.149.179.159 2 2 2936 20230214083516
+198.235.24.55 2 2 7124 20230223145710
+193.235.141.3 2 2 2936 20230216000735
+31.13.103.13 0 2 62368 
+183.136.225.46 2 2 7124 20230224013856
+69.171.251.116 0 3 555533 
+162.214.112.108 1 1 1468 20230211131902
+131.226.2.65 1 1 1468 20230227175716
+209.107.216.249 1 1 1468 20230225094835
+167.94.138.120 2 2 2936 20230205002036
+31.13.127.119 0 2 551632 
+144.91.106.14 2 3 3756 20230206094915
+101.68.211.2 2 2 7124 20230213171439
+193.235.141.152 2 2 2936 20230213082940
+193.235.141.153 2 2 2936 20230220123044
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 22
+20230201 2 2 7124 1
+20230202 2 2 2936 1
+20230205 4 4 5872 2
+20230206 2 3 3756 1
+20230208 4 4 5872 2
+20230210 4 4 5872 2
+20230211 2 2 2936 2
+20230212 4 4 10060 2
+20230213 4 4 10060 2
+20230214 6 20 819173 2
+20230216 7 7 18652 3
+20230217 4 4 5872 2
+20230218 16 16 352426 2
+20230220 4 4 5872 2
+20230221 4 4 10060 2
+20230222 4 4 10060 2
+20230223 8 37 2433544 4
+20230224 2 2 7124 1
+20230225 5 5 7340 3
+20230226 2 2 7124 1
+20230227 3 3 4404 2
+20230228 4 4 5872 2
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 2
+15mn-30mn 1
+0s-30s 42
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 4
+/ 79 157852 41 40
+/Dagengo/ 14 352426 1 2
+/Dagengo/wp-cron.php 2 0 1 0
+/DiceGame/Dicegame/dicee.html 2 718 0 1
+END_SIDER

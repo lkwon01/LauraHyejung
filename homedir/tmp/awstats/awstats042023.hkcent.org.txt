@@ -1,0 +1,1216 @@
+AWSTATS DATA FILE 7.8 (build 20200416)
+# If you remove this file, all statistics for date 202304 will be lost/reset.
+# Last config file used to build this data file was /home1/hkcent24/tmp/awstats/awstats.hkcent.org.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2008                
+POS_TIME 2687                
+POS_VISITOR 28906               
+POS_DAY 34787               
+POS_DOMAIN 3471                
+POS_LOGIN 3945                
+POS_ROBOT 4100                
+POS_WORMS 4599                
+POS_EMAILSENDER 4730                
+POS_EMAILRECEIVER 4873                
+POS_SESSION 35541               
+POS_SIDER 35721               
+POS_FILETYPES 5008                
+POS_DOWNLOADS 5181                
+POS_OS 5540                
+POS_BROWSER 5926                
+POS_SCREENSIZE 7431                
+POS_UNKNOWNREFERER 7505                
+POS_UNKNOWNREFERERBROWSER 8183                
+POS_ORIGIN 8574                
+POS_SEREFERRALS 8715                
+POS_PAGEREFS 8899                
+POS_SEARCHWORDS 9047                
+POS_KEYWORDS 9199                
+POS_MISC 2350                
+POS_ERRORS 9258                
+POS_CLUSTER 3801                
+POS_SIDER_404 9388                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20230501000954 65 14239 9027438204531
+FirstTime 20230401004730
+LastTime 20230430232523
+LastUpdate 20230501074038 65 0 64 0 0
+TotalVisits 194                 
+TotalUnique 148                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 151                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+TotalMisc 0 0 0
+AddToFavourites 0 55 0
+WindowsMediaPlayerSupport 0 0 0
+JavascriptDisabled 0 0 0
+FlashSupport 0 0 0
+RealPlayerSupport 0 0 0
+PDFSupport 0 0 0
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+DirectorSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 30 31 48266 1254 1317 131888
+1 14 14 20270 31 40 22346
+2 30 30 70138 97 106 17890
+3 13 13 33742 54 56 22049
+4 38 48 891244 69 75 23850
+5 12 13 18436 14 20 16499
+6 20 20 58676 125 127 30562
+7 22 22 61612 46 54 17652
+8 18 28 851924 22 28 5588
+9 30 30 55136 22 46 30116
+10 14 14 45680 124 129 47556
+11 24 34 867130 87 106 48998
+12 30 60 2484494 40 64 18465
+13 22 32 851004 42 52 44005
+14 114 178 356727 151 243 148135
+15 2 2 1468 42 47 20116
+16 24 46 1674262 128 214 38544
+17 14 40 1389114 17 25 26181
+18 14 14 34986 91 118 859789
+19 7 7 24934 62 72 15557
+20 14 14 37930 89 96 22395
+21 6 6 8808 23 31 10817
+22 9 9 20120 53 61 22020
+23 8 18 814952 35 43 5760
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 19
+us 346 498 6944107
+cn 71 72 141272
+ru 19 20 38224
+ca 12 52 3254756
+gb 12 12 28496
+de 10 10 16550
+se 10 10 14680
+nl 10 10 14680
+eu 6 6 4338
+it 6 6 4338
+au 6 6 17184
+jp 4 4 14248
+in 4 4 10060
+fr 3 3 7124
+be 2 2 2936
+cl 2 2 7124
+id 2 2 7124
+jo 2 2 7124
+cz 2 2 7124
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 10
+spider 153 129429 20230430140908 0
+bot[\s_+:,\.\;\/\\-] 139 201834 20230430232015 0
+Googlebot/ 39 49508 20230424161221 0
+no_user_agent 37 131794 20230430144810 0
+bingbot/ 17 15844 20230430140907 0
+Go\-http\-client/ 17 23488 20230426035528 0
+baidu 10 806144 20230426184626 0
+link 6 4338 20230408231236 0
+Baiduspider/ 2 2936 20230426184623 0
+curl 1 0 20230430060745 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 6
+html 523 1177810 0 0
+png 111 9066415 0 0
+css 60 93813 0 0
+Unknown 4 1236 0 0
+local 2 618 0 0
+js 23 22033 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 7
+/DrumKit/DrumKit/sounds/tom-2.mp3 0 1 36234
+/DrumKit/DrumKit/sounds/kick-bass.mp3 0 1 1568
+/DrumKit/DrumKit/sounds/tom-4.mp3 0 1 28490
+/DrumKit/DrumKit/sounds/crash.mp3 0 1 34562
+/DrumKit/DrumKit/sounds/tom-3.mp3 0 1 29547
+/DrumKit/DrumKit/sounds/tom-1.mp3 0 1 22859
+/DrumKit/DrumKit/sounds/snare.mp3 0 1 26304
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 24
+winlong 6 6
+android 24 4
+win8 1 1
+ios_ipad 2 2
+macosx8 6 6
+win8.1 10 10
+win10 283 199
+macosx6 2 2
+macosx 2 2
+macosx9 6 6
+android10 2 2
+androidpie 3 3
+Unknown 36 26
+ios_iphone 39 38
+winxp 6 6
+macosx10 4 4
+androidkitkat 1 1
+linux 44 34
+winnt 1 1
+linuxubuntu 10 10
+win7 200 135
+bsdopenbsd 1 1
+macosx15 23 12
+macosx11 18 18
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 70
+chrome27.0.1453.93 1 1
+firefox58.0 2 2
+chrome78.0.3904.108 19 19
+chrome103.0.5060.134 2 2
+msie7.0 2 2
+chrome112.0.0.0 101 18
+firefox108.0 2 2
+chrome27.0.1500.55 1 1
+safari13.1 3 2
+chrome102.0.0.0 2 2
+chrome111.0.3770.0 2 2
+chrome26.0.1410.65 6 6
+chrome67.0.3396.79 2 2
+chrome91.0.4472.114 4 4
+chrome79.0.3945.79 24 4
+chrome102.0.5005.63 2 2
+chrome99.0.4859.172 14 14
+chrome80.0.3987.162 2 2
+Unknown 8 8
+chrome111.0.5563.146 6 6
+opera89.0.4447.51 6 6
+mozilla 26 16
+chrome6.0.472.33 2 2
+chrome104.0.5112.79 3 2
+chrome90.0.4430.72 2 2
+safari6.0 2 2
+android 1 1
+chrome85.0.4183.121 2 2
+chrome83.0.4103.97 25 25
+chrome34.0.1847.116 6 6
+chrome88.0.4240.193 13 13
+chrome35.0.1916.47 2 2
+chrome98.0.4758.102 2 2
+chrome35.0.2117.157 2 2
+chrome79.0.3945.88 2 2
+chrome80.0.3987.149 44 44
+chrome76.0.3809.132 4 4
+chrome57 3 3
+chrome91.0.4472.106 6 6
+edge12 18 17
+chrome105.0.0.0 2 2
+safari13.0.3 34 34
+firefox63.0 4 4
+chrome33.0.1750.517 1 1
+chrome95.0.4638.69 20 20
+firefox 2 2
+firefox28.0 8 8
+chrome90.0.4430.85 2 2
+msie9.0 175 110
+chrome36.0.1985.125 1 1
+chrome52.0.2762.73 2 2
+chrome106.0.0.0 18 8
+opera11.50 2 2
+chrome83.0.4103.61 4 4
+chrome84.0.4147.105 2 2
+firefox89.0 4 4
+netscape5.0 4 4
+chrome111.0.0.0 2 2
+chrome68.0.3440.106 2 2
+chrome74.0.3729.169 14 14
+safari5.1 2 2
+firefox47.0 18 18
+safari 2 2
+chrome111.0.5563.64 12 2
+chrome86.0.4240.198 2 2
+chrome90.0.4430.93 4 4
+chrome39.0.2171.95 4 4
+chrome108.0.0.0 4 4
+chrome37.0.2049.0 1 1
+chrome103.0.0.0 2 2
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 6
+fasthttp 20230406025635
+Mozilla/5.0_(compatible;_CensysInspect/1.1;__https://about.censys.io/) 20230430074653
+Mozilla/5.0_(compatible;_Dataprovider.com) 20230420121523
+Mozilla/5.0_(compatible;_InternetMeasurement/1.0;__https://internet-measurement.com/) 20230421224751
+Mozilla/5.0_zgrab/0.x 20230414160510
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20230410165757
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 2
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20230410165757
+fasthttp 20230406025635
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 382 385
+From1 0 0
+From2 115 180
+From3 0 0
+From4 32 165
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 2
+www_bing_com 5 5
+www_google_com 110 175
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 4
+409 115 9047
+406 999 225774
+403 6 2700
+404 1574 26452
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 657
+/wp-content/themes/statfort-new/include/lang_upload.php 2 -
+/complete-order/ 2 -
+/admin/assets/plugins/plupload/examples/upload.php 2 -
+/admin/wp-config.conf 2 -
+/wp/wp-config.php__ 2 -
+/scripts/filemanager/dialog.php 2 -
+/wp-config.dump 2 -
+/public/plugins/plupload/examples/upload.php 2 -
+/wordpress/wp-config.ORG 2 -
+/public_html/.env.staging 2 -
+/stg/.env.local 2 -
+/wordpress/wp-config%20copy.php 2 -
+/wp-content/plugins/ioptimization/IOptimize.php 24 -
+/wp-content/plugins/dzs-zoomsounds/admin/admin.css 1 -
+/blog/ 4 -
+/new/.env.staging 2 -
+/wordpress/wp-config-backup1.txt 2 -
+/wp-config 2 -
+/user/.env.staging 2 -
+/backup/.env.local 2 -
+//xampp/phpinfo.php 1 -
+/wp/wp-config 2 -
+/php.php 2 -
+/wp-content/plugins/scripts-organizer/plugins/meta-box/readme.txt 2 -
+/admin/wp-config.php 2 -
+/api/.env.production 2 -
+/wp-content/plugins/angwp/__%20UPDATES.txt 2 -
+/crm/info.php 1 -
+/wp/wp-config.php_new 2 -
+/wp/wp-config.php______ 2 -
+/wp-content/themes/aidreform/include/lang_upload.php 2 -
+/lib/watermark/trustsec.php 2 -
+/.env.test 2 -
+/api/info.php 1 -
+/crm/.env.production 2 -
+/service/info.php 1 -
+/wp/wp-config.txt 2 -
+/development/phpinfo.php 1 -
+/develop/info.php 1 -
+/wp/wp-config.tar 1 -
+/assets/jquery-file-upload/server/php/ 2 -
+/xampp/info.php 3 -
+//lara/phpinfo.php 1 -
+/index.json 1 -
+/laravel/phpinfo.php 1 -
+/current/info.php 1 -
+/public/assets/plugins/plupload/examples/upload.php 2 -
+/wordpress/xmlrpc.php 2 -
+/admin/wp-config_backup 2 -
+/xampp/.env.local 2 -
+/assets/plugins/plupload/examples/upload.php 2 -
+/wordpress 2 -
+/live/.env.production 2 -
+/wordpress/wp-config.phptmp 2 -
+/new 2 -
+/wp-content/ 4 -
+/2018/ 2 -
+/wp-config.conf 2 -
+/wp-content/themes/greyd_suite/style.css 1 -
+/assets/elfinder/elfinder.html 2 -
+/admin/wp-config-backup 2 -
+/admin/wp-config-sample.php 2 -
+/kyc/.env.staging 2 -
+/cron/.env.staging 2 -
+/admin/wp-config.ORG 2 -
+/wordpress/wp-config.inc 2 -
+/admin/wp-config.phpold 2 -
+/.deployment-config.json 1 -
+/wp-content/plugins/elementor-pro/assets/css/preview.css 2 -
+/beta/.env.local 2 -
+/wp-config_good 2 -
+/wp-config.phpb 2 -
+/.wordpress/wp-config.swordpress/wp 2 -
+/admin/wp-config.data 2 -
+/app/.env.local 2 -
+/admin/wp-config.php_bak 2 -
+/admin/wp-config.good 2 -
+/time.php 2 -
+/admin/wp-config.temp 2 -
+/public/assets/jquery_uploader/server/php/index.php 1 -
+//laravel/info.php 1 -
+//development/phpinfo.php 1 -
+/console/base/config.json 1 -
+/wp-content/themes/rocky-theme/include/lang_upload.php 2 -
+/wp-content/plugins/mapsvg-lite-interactive-vector-maps/gm_download.php 2 -
+/phpinfo 3 -
+/wp-json/wp/v2/users 1 -
+/wordpress/wp-config.txt 2 -
+/wordpress/wp-config.php_old2020 2 -
+/wp-config.phpa 2 -
+/wordpress/wp-config-good 2 -
+/wp-content/plugins/woocommerce-payments/dist/blocks-checkout.css 2 -
+/admin/wp-config-backup.txt 2 -
+//wp-content/plugins/elementor-pro/changelog.txt 1 www.google.com
+/assets/js/kcfinder/upload.php 2 -
+/wp-content/themes/theme-deejay/include/lang_upload.php 2 -
+/help/info.php 1 -
+/admin/wp-config.bkp 2 -
+/wp/wp-config.phpn 2 -
+/wp-configbak 2 -
+/wordpress/wp-configbak 2 -
+/wordpress/wp-config.php_backup 2 -
+/wp/wp-config.local.php 2 -
+/wp-config.php_bk 2 -
+/wordpress/wp-config.php__ 2 -
+/storage/.env.local 2 -
+/web/.env.staging 2 -
+/admin/wp-config.cfg 2 -
+/phpinfo.php 2 -
+/server/config.json 1 -
+/div/ 2 -
+/backend/phpinfo.php 1 -
+/fckeditor/editor/filemanager/connectors/php/upload.php 2 -
+/backup.wp-config.php 2 -
+/marketing/.env.local 2 -
+/wp-content/themes/snapture/include/lang_upload.php 2 -
+/admin/wp-config.local.php 2 -
+/wp-config.local.php 2 -
+/wp/wp-config.data 2 -
+/wp-config.php_original 2 -
+//help/info.php 1 -
+/filemanager/filemanager/dialog.php 2 -
+/wp-config.inc 2 -
+/wp/xmlrpc.php 2 -
+/demo/.env.staging 2 -
+/services/.env.local 2 -
+/backup/phpinfo.php 1 -
+/wp/wp-configbak 2 -
+/wp-content/plugins/wp-pinterest-automatic/changelog 2 -
+/dev/phpinfo.php 1 -
+/wp-content/themes/faith-theme/include/lang_upload.php 2 -
+/staging/.env.staging 2 -
+//helper/phpinfo.php 1 -
+/public_html/.env.production 2 -
+/backup/.env.staging 2 -
+/admin/wp-config.php_backup 2 -
+/dev/.env.local 2 -
+/wordpress/wp-config.temp 2 -
+/phpversion.php 2 -
+/console/payments/config.json 1 -
+/wp/wp-config_good 2 -
+//laravel/phpinfo.php 1 -
+/backup/ 4 -
+/.msmtprc 2 -
+/.env.staging 2 -
+/kcfinder/upload.php 2 -
+/wp/wp-config.php_backup 2 -
+/wp/wp-json/wp/v2/users 1 -
+/admin/wp-config-backup1.txt 2 -
+/wordpress/wp-config-backup 2 -
+/wp-content/plugins/woocommerce-upload-files/js/wcuf-admin-menu.js 1 -
+/development/.env.production 2 -
+/old/.env.production 2 -
+/wp-content/themes/westand/include/lang_upload.php 2 -
+/js/tinymce4/plugins/filemanager/dialog.php 2 -
+/public/.env.production 2 -
+/public/_ignition/health-check/ 8 -
+/laravel/core/.env.local 2 -
+/admin/wp-config.htm 2 -
+/wp/wp-config.phporiginal 2 -
+/wp-content/themes/workreap/style.css 1 -
+/wp-content/themes/bolster-theme/include/lang_upload.php 2 -
+/staging/.env.production 2 -
+/wp-content/plugins/wpgateway/css/style.css 1 -
+/main 2 -
+/wp-content/plugins/wp-user-avatar/changelog.txt 2 -
+/wp-content/themes/churchlife/include/lang_upload.php 2 -
+/api/.env.local 2 -
+/misc/ajax.js 1 -
+/website/.env.staging 2 -
+/develop/.env.production 2 -
+/service/.env.production 2 -
+/temp/ 4 -
+/wp/wp-config.phpd 2 -
+/api/phpinfo.php 1 -
+/public/.env.staging 2 -
+/crm/phpinfo.php 1 -
+/user/.env.local 2 -
+/wp-config.php_old2018 2 -
+//current/info.php 1 -
+/new/xmlrpc.php 2 -
+/crm/.env.local 2 -
+/backup/.env.production 2 -
+/service/.env.staging 2 -
+/wordpress/wp-config.php_orig 2 -
+/wp/wp-config.php_old2018 2 -
+/wp/wp-config.php1 2 -
+/wp-content/plugins/armember/js/arm_widgets_js.js 1 -
+/helper/info.php 1 -
+/wp-config-backup 2 -
+/plugins/system/debug/debug.xml 2 -
+/develop/.env.staging 2 -
+/linusadmin-phpinfo.php 2 -
+/website/.env.production 2 -
+/backend/.env.local 2 -
+/assets/tinymce/plugins/filemanager/dialog.php 2 -
+/stg/.env.production 2 -
+/wordpress/wp-config_backup 2 -
+//server/phpinfo.php 1 -
+/wp-config.php_ 2 -
+/wp/wp-admin/includes/ 1 www.google.com
+/wordpress/wp-config.phpa 2 -
+/wordpress/wp-json/wp/v2/users 1 -
+/js/kcfinder/upload.php 2 -
+/humans.txt 10 -
+/wp-login.php 2 -
+/blog/xmlrpc.php 2 -
+/wp/wp-config.php_orig 2 -
+/vendor/phpunit/phpunit/build.xml 2 -
+/wp-config-backup.txt 2 -
+/current/.env.staging 2 -
+/xl2023.php 4 www.google.com
+/wp-content/plugins/seoplugins/mar.php 24 -
+/wp/wp-config-good 2 -
+/prod/.env.production 2 -
+/old/wp-json/wp/v2/users 1 -
+/app/.env.production 2 -
+/qa/.env.local 2 -
+/xampp/phpinfo 2 -
+/admin/wp-config.phpc 2 -
+/qa/.env.staging 2 -
+/wp/wp-config.phpb 2 -
+/beta/.env.staging 2 -
+/infophp.php 2 -
+/wp-config.php_bak 2 -
+/cron/.env.local 2 -
+/services/.env.staging 2 -
+/.env.stage 2 -
+/admin/wp-config.php_old2018 2 -
+/wordpress/wp-config.php1 2 -
+/plugins/jquery_uploader/server/php/index.php 1 -
+/admin/wp-config.phpb 2 -
+/assets/libs/jquery-file-upload/server/php/ 2 -
+/server/info.php 1 -
+/project/.env.local 2 -
+/wordpress/wp-config.php_new 2 -
+/current/.env.production 2 -
+/wp/wp-config.php_old2017 2 -
+/wp-content/themes/soccer-theme/include/lang_upload.php 2 -
+/robots.txt 72 -
+/site/wp-admin/includes/ 1 www.google.com
+/wordpress/wp-config.php_bk 2 -
+/wordpress/wp-config.phpc 2 -
+/wp/wp-config.php_old2020 2 -
+/wp-content/plugins/wp-automatic/css/wp-automatic.css 1 -
+//current/phpinfo.php 1 -
+/product/.env.local 2 -
+/.s3cfg 2 -
+//backup/phpinfo.php 1 -
+/wp-config.php_old2017 2 -
+/.env.php 2 -
+/help/phpinfo.php 1 -
+/wp-config.php_old2020 2 -
+/wp-admin/includes/ 1 www.google.com
+/wp/wp-config.php__olds 2 -
+/wp/wp-config-backup.txt 2 -
+/wp-config.phpd 2 -
+/.env.production 2 -
+/assets/admin/plugins/plupload/examples/upload.php 2 -
+/wp-content/plugins/ccx/index.php 24 -
+/admin/wp-config.php_orig 2 -
+/wp-content/plugins/superlogoshowcase-wp/css/sls-wp-admin.css 1 -
+/apis/.env.production 2 -
+//wp-content/themes/seotheme/db.php 7 -
+/admin/.env.local 2 -
+/index.php 32 -
+/images/editor/separator.gif 1 -
+/.environment 2 -
+/wp-content/plugins/super-interactive-maps/css/sim-wp-admin.css 1 -
+/wordpress/wp-config.php_original 2 -
+/wp/wp-config.php_bk 2 -
+/wordpress/wp-config.good 2 -
+/wordpress/wp-config_good 2 -
+/admin/wp-config.phporiginal 2 -
+/.config/gatsby/config.json 1 -
+/lib/watermark/phpThumb.php 1 -
+/wp-config.phpnew 2 -
+/wordpress/wp-config-sample.php 2 -
+/demo/.env.local 2 -
+/wp-content/themes/spikes-black/include/lang_upload.php 2 -
+/admin/wp-config.phptmp 2 -
+/services/.env.production 2 -
+/wp-content/themes/soundblast/include/lang_upload.php 2 -
+/wp-includes/style.php 2 -
+/assets/plugins/kcfinder/upload.php 2 -
+/laravel/core/.env.staging 2 -
+/wp-content/themes/footysquare/include/lang_upload.php 2 -
+/admin/wp-config.php_old2019 2 -
+/.envs 2 -
+/old/.env.local 2 -
+/laravel/.env.local 2 -
+/wp-config.txt 2 -
+/wp/wp-config.good 2 -
+/admin/wp-config.php______ 2 -
+/wordpress/wp-config.php_1 2 -
+/dev/info.php 1 -
+/.env.development.local 2 -
+/wp-content/themes/club-theme/include/lang_upload.php 2 -
+/assets/global/plugins/plupload/examples/upload.php 2 -
+/wp-config%20-%20Copy.php 2 -
+//development/iinfo.php 1 -
+/new/ 4 -
+/ads.txt 10 -
+/public/.env.local 2 -
+/dev/.env.production 2 -
+/wordpress/wp-config.phpold 2 -
+/wp-config.php_backup 2 -
+/.jupyter/jupyter_notebook_config.json 1 -
+/wp-config.ORG 2 -
+/admin/wp-config-backup.php 2 -
+/admin/wp-config.php_old 2 -
+/wordpress/wp-config.php__olds 2 -
+/wp-config.temp 2 -
+/shop/.env.production 2 -
+/wp-content/plugins/mapsvg/gm_download.php 2 -
+/wp-content/themes/spikes/include/lang_upload.php 2 -
+/bc 2 -
+/wp-22.php 6 -
+/admin/wp-config.php_1 2 -
+/dashboard/phpinfo.php 2 -
+/wp-config.php__olds 2 -
+/wp/wp-config.php_original 2 -
+/wp-content/themes/listingo/readme.txt 2 -
+/_wpeprivate/config.json 1 -
+/wordpress/wp-config.zip 1 -
+/laravel/core/.env.production 2 -
+/admin/.env.production 2 -
+/project/.env.staging 2 -
+/assets/backend/plugins/jquery-file-upload/server/php/ 2 -
+/.vscode/sftp.json 2 -
+/wp-config.php1 2 -
+/kyc/.env.production 2 -
+/wordpress/wp-config.php______ 2 -
+/wp-config.php__ 2 -
+/asset/kcfinder/upload.php 2 -
+//backend/phpinfo.php 1 -
+/wordpress/wp-config.bkp 2 -
+/filemanager/dialog.php 2 -
+/admin/wp-config_good 2 -
+/wp-content/xl2023.php 2 www.google.com
+/info.php 3 -
+/wp/wp-config.phptmp 2 -
+/wordpress/wp-config.php_ 2 -
+/admin/wp-config.tar 1 -
+/wordpress/wp-config.php_old 2 -
+/wp-config.cfg 2 -
+//crm/phpinfo.php 1 -
+//api/info.php 1 -
+/current/.env.local 2 -
+/project/.env.production 2 -
+/production/.env.production 2 -
+/admin/wp-config-good 2 -
+/admin/assets/plugins/jQuery-File-Upload/server/php/index.php 1 -
+//service/info.php 1 -
+/back/ 2 -
+/wp/wp-config.phpold 2 -
+/wp-config%20copy.php 2 -
+/assets/scripts/filemanager/dialog.php 2 -
+/sitemap.xml 4 -
+/portal/.env.production 2 -
+/.envrc 2 -
+/service/.env.local 2 -
+/admin/wp-config%20copy.php 2 -
+//info.php 1 -
+/wp/ 4 -
+/crm/.env.staging 2 -
+/wp/wp-config.bkp 2 -
+/develop/.env.local 2 -
+/wp-config.bkp 2 -
+/blog/wp-admin/includes/ 1 www.google.com
+/wordpress/wp-config.php_old2017 2 -
+/backend/.env.staging 2 -
+/cron/.env.production 2 -
+/api/.env.staging 2 -
+/admin/includes/general.js 1 -
+/sftp-config.json 2 -
+/wp/wp-config.php_1 2 -
+/temp.php 2 -
+/wordpress/wp-config.dump 2 -
+/wp-content/plugins/dsp_dating/wpdating-gallery/lib/server/php/index.php 2 -
+/wp-content/plugins/wp-user-extra-fields/js/wpuef-configurator.js 1 -
+/admin/.env 4 -
+/admin/wp-config.dump 2 -
+/admin/wp-config.php1 2 -
+/phpformbuilder/plugins/filemanager/dialog.php 2 -
+/.env.production.local 2 -
+/wp/wp-config.php_old2019 2 -
+/website/.env.local 2 -
+/wordpress/wp-config.html 2 -
+/tinymce/filemanager/dialog.php 2 -
+/new/.env.production 2 -
+/wp-content/themes/seotheme/db.php 9 www.google.com
+/assets/lib/jquery-file-upload/server/php/ 2 -
+/wp-content/plugins/woocommerce-payments/changelog.txt 2 www.google.com
+/prod/.env.local 2 -
+/wp/wp-config%20-%20Copy.php 2 -
+/server/.env.local 2 -
+/.docker/daemon.json 1 -
+/market/.env.production 2 -
+/wp-config.good 2 -
+/.env.save 2 -
+/wp/wp-config.htm 2 -
+/services/phpinfo.php 1 -
+/admin/wp-config.phpnew 2 -
+/wp/wp-config-sample.php 2 -
+/assets/kcfinder/upload.php 2 -
+/wp/wp-config%20copy.php 2 -
+/admin/wp-config 2 -
+/backend/.env.production 2 -
+/live/.env.staging 2 -
+//backup/info.php 1 -
+/.aws/credentials 2 -
+/config.json 1 -
+/resources/global/plugins/jquery-file-upload/server/php/ 2 -
+/plugins/jquery-file-upload/server/php/ 2 -
+/wordpress/wp-config.phpd 2 -
+/old/.env.staging 2 -
+/config.env 2 -
+/server/.env.staging 2 -
+/apis/.env.local 2 -
+/xmlrpc.php 4 -
+/wordpress/wp-config.php 2 -
+//dev/phpinfo.php 1 -
+/laravel/.env.production 2 -
+/pinfo.php 2 -
+/admin/wp-config.phpa 2 -
+/lara/info.php 1 -
+/assets/admin/js/tinymce/plugins/filemanager/dialog.php 2 -
+/wp-content/themes/onelife/include/lang_upload.php 2 -
+/wp-config.htm 2 -
+/wordpress/wp-config.phpn 2 -
+/assets/filemanager/dialog.php 2 -
+/server/phpinfo.php 1 -
+/backup.wordpress/wp-config.php 2 -
+/wordpress/wp-config.tar 1 -
+/wp-content/plugins/wp-live-chat-support-pro/css/wplc_styles_pro.css 1 -
+/wp/wp-config.phpnew 2 -
+/test.php 2 -
+/wp-config-sample.php 2 -
+/wordpress/wp-config.conf 2 -
+/backup 2 -
+//service/phpinfo.php 1 -
+/infos.php 2 -
+/admin/index.php 6 -
+/wp-config.phporiginal 2 -
+/_ignition/health-check/ 8 -
+/laravel/.env.staging 2 -
+/wp-content/themes/kingclub-theme/include/lang_upload.php 2 -
+//backend/info.php 1 -
+/th1s_1s_a_4o4.html 60 http://www.google.com/url
+/wp-admin/style.php 1 -
+/wp-content/themes/pridmag/db.php 24 -
+/product/.env.production 2 -
+/admin/wp-config.php_ 2 -
+/shop/.env.local 2 -
+/wp/wp-config.dump 2 -
+/wp/wp-config.php 2 -
+/app/webroot/global/plugins/jquery-file-upload/server/php/ 2 -
+/old 2 -
+/.env.test.local 2 -
+/development/.env.staging 2 -
+/helper/phpinfo.php 1 -
+/wordpress/wp-config-backup.txt 2 -
+/wp/wp-config.phpc 2 -
+//server/info.php 1 -
+/2017/ 2 -
+/wordpress/wp-config-backup.php 2 -
+/wp/wp-config.temp 2 -
+/wp-content/plugins/armember/documentation/index.html 2 -
+/web/.env.production 2 -
+/wp-config-good 2 -
+/wp-content/plugins/wp-automatic/changelog 2 -
+/wp/wp-config-backup 2 -
+/wp-config.phpn 2 -
+/wp-config.php_old 2 -
+/wp/wp-config.cfg 2 -
+/assets/admin/global/plugins/jQuery-File-Upload/server/php/index.php 1 -
+/product/.env.staging 2 -
+/services/info.php 1 -
+/admin/wp-config.php_new 2 -
+/assets/global/plugins/jquery-file-upload/server/php/ 2 -
+/admin/.env.staging 2 -
+/wp-config.php_new 2 -
+/info.json 1 -
+/wp-content/updates.php 2 www.google.com
+/demo/.env.production 2 -
+/wordpress/wp-config.php_old2019 2 -
+/client/.env.production 2 -
+/components/com_acym/controllers/index.html 4 -
+/home 2 -
+/wordpress/wp-config.local.php 2 -
+/admin/wp-config.inc 2 -
+/client/.env.staging 2 -
+/assets/global/plugins/jquery_uploader/server/php/index.php 1 -
+/wordpress/wp-config.cfg 2 -
+/wp/wp-config.conf 2 -
+/production/.env.local 2 -
+/i.php 2 -
+/wp-config.php_orig 2 -
+/wp-config-backup.php 2 -
+/admin/wp-config.php_bk 2 -
+/xampp/.env.staging 2 -
+/wp-config.phpc 2 -
+/qa/.env.production 2 -
+//services/phpinfo.php 1 -
+/wp-content/plugins/e-signature/page-template/default/style.css 1 -
+/wp-content/plugins/ait-csv-import-export/changelog.txt 2 -
+/.env.prod 2 -
+/js/jquery-file-upload/server/php/ 2 -
+/asdf.php 2 -
+/wp-content/plugins/tatsu/changelog.md 2 -
+/app/.env.staging 2 -
+/assets/plugins/elfinder/elfinder.html 2 -
+/wp-config.php______ 2 -
+/wp-config.html 2 -
+/wp-includes/js/jquery/jquery.js 1 -
+/.docker/config.json 1 -
+/feed/ 22 -
+/wordpress/wp-config.phpnew 2 -
+/wp-config.php_1 2 -
+/wp-content/plugins/wp-ecommerce-shop-styling/includes/download.php 2 -
+/admin/wp-configbak 2 -
+/admin/wp-config.txt 2 -
+//crm/info.php 1 -
+/admin/wp-config.zip 1 -
+//api/phpinfo.php 1 -
+/_profiler/phpinfo 2 -
+/kyc/.env.local 2 -
+/backup/info.php 1 -
+/wp/wp-config.zip 1 -
+//helper/info.php 1 -
+/wp-content/themes/bolster/include/lang_upload.php 2 -
+/admin/wp-config.phpd 2 -
+/admin/wp-config%20-%20Copy.php 2 -
+/wp-content/style.php 2 -
+/lib/jquery-file-upload/server/php/ 2 -
+/wp 2 -
+/blog/wp-json/wp/v2/users 1 -
+//develop/info.php 1 -
+/new/.env.local 2 -
+/admin/wp-config.phpn 2 -
+/php-info.php 2 -
+/style.php 4 -
+/portal/.env.local 2 -
+/marketing/.env.production 2 -
+/wordpress/wp-config.phporiginal 2 -
+/stg/.env.staging 2 -
+/.env.sample.php 2 -
+/backend/info.php 1 -
+/main.js 1 -
+/admin/wp-config.php_old2020 2 -
+/config/config.json 1 -
+/wp-content/themes/statfort/include/lang_upload.php 2 -
+//services/info.php 1 -
+/frontend_dev.php/$ 2 -
+/development/.env.local 2 -
+/wp/wp-config.php_old 2 -
+/beta/.env.production 2 -
+/wp-content/plugins/cherry-plugin/admin/import-export/download-content.php 2 -
+/tinymce/plugins/filemanager/dialog.php 2 -
+/wp/wp-config.html 2 -
+/wp/wp-config.php_bak 2 -
+//help/phpinfo.php 1 -
+/admin/filemanager/dialog.php 2 -
+/.env.local 4 -
+/plugins/kcfinder/upload.php 2 -
+/wp/wp-config-backup1.txt 2 -
+/prod/.env.staging 2 -
+/.well-known/security.txt 2 -
+/marketing/.env.staging 2 -
+/assets/plugins/jquery-file-upload/server/php/ 2 -
+/wp-config.tar 1 -
+/wp/wp-config_backup 2 -
+/admin/wp-config.html 2 -
+/wp-config.php_old2019 2 -
+/market/.env.local 2 -
+/server/.env.production 2 -
+/wp-includes/ID3/license.txt 20 -
+/live/.env.local 2 -
+/old/ 4 -
+/admin/wp-config.php_original 2 -
+/development/iinfo.php 1 -
+/backup.wp/wp-config.php 2 -
+/wp/wp-config.phpa 2 -
+/wordpress/wp-config.data 2 -
+/bk 2 -
+/wp-config.phpold 2 -
+/old/xmlrpc.php 2 -
+/oldsite/ 2 -
+/dev/.env.staging 2 -
+/wordpress/wp-admin/includes/ 1 www.google.com
+/admin/wp-config.php_old2017 2 -
+/wp/wp-config-backup.php 2 -
+/market/.env.staging 2 -
+/.lanproxy/config.json 1 -
+/wordpress/wp-config.php_bak 2 -
+/lara/phpinfo.php 1 -
+/wp-content/themes/listingo/js/listingo_callbacks.js 1 -
+//dev/info.php 1 -
+/backup.admin/wp-config.php 2 -
+/js/header-rollup-554.js 1 -
+/wp/wp-config.inc 2 -
+/wp-config_backup 2 -
+/wso112233.php 2 www.google.com
+/apis/.env.staging 2 -
+/wordpress/wp-config.htm 2 -
+/wp-content/plugins/superstorefinder-wp/css/ssf-wp-admin.css 1 -
+//develop/phpinfo.php 1 -
+/.env.dist 2 -
+/admin/wp-config.php__ 2 -
+/current/phpinfo.php 1 -
+/laravel/info.php 1 -
+//phpinfo 1 -
+/wp-config.php 2 -
+/staging/.env.local 2 -
+/wp/wp-config.ORG 2 -
+/assets/admin/tinymce/plugins/filemanager/dialog.php 2 -
+/portal/.env.staging 2 -
+/wp-content/themes/seotheme/mar.php 24 -
+/wp/wp-config.php_ 2 -
+/wordpress/wp-config 2 -
+/admin/view/javascript/common.js 1 -
+/new/wp-json/wp/v2/users 1 -
+//xampp/info.php 1 -
+/.cordova/config.json 1 -
+/shop/.env.staging 2 -
+/rindex.php 2 www.google.com
+/old_phpinfo.php 2 -
+/.env.docker.dev 2 -
+/debug/default/view 2 -
+/public_html/.env.local 2 -
+/storage/.env.production 2 -
+/production/.env.staging 2 -
+/wp-config.data 2 -
+/.env.dev 2 -
+/develop/phpinfo.php 1 -
+/service/phpinfo.php 1 -
+/wordpress/wp-config.phpb 2 -
+//lara/info.php 1 -
+/wordpress/wp-config.php_old2018 2 -
+/xampp/phpinfo.php 1 -
+/admin/ 2 -
+/wp-content/plugins/elementor-pro/changelog.txt 3 www.google.com
+/wordpress/wp-config%20-%20Copy.php 2 -
+/wp-admin/css/ 2 binance.com
+/xampp/.env.production 2 -
+/wp-config.phptmp 2 -
+/wp-config.zip 1 -
+/admin/wp-config.php__olds 2 -
+/wp-config-backup1.txt 2 -
+/web/.env.local 2 -
+/assets/plugins/filemanager/dialog.php 2 -
+/wordpress/ 4 -
+/client/.env.local 2 -
+/templates/system/css/system.css 2 -
+/security.txt 2 -
+/storage/.env.staging 2 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 151
+184.154.76.13 32 52 104736 20230426140319
+184.154.36.170 26 45 93483 20230430140906
+3.238.29.179 17 18 18086 20230412004412
+184.154.139.14 16 24 46662 20230429140538
+198.20.67.197 14 19 35851 20230427140324
+139.99.219.246 11 11 39182 20230416070352
+108.175.5.169 11 11 30806 20230406192545
+184.154.139.23 10 13 24559 20230415140225
+136.226.53.106 10 43 1199490 20230414173013
+170.64.160.139 10 10 35620 20230430060747
+144.217.135.151 8 8 17014 20230420121508
+184.154.139.15 8 12 23612 20230411140240
+143.244.47.70 8 8 28496 20230409104353
+174.138.30.72 6 6 21372 20230404043519
+15.235.143.165 6 6 21372 20230413105144
+173.249.56.171 6 6 8808 20230428065450
+183.136.225.44 6 6 21372 20230410073223
+64.99.243.216 6 46 3233384 20230427124847
+212.102.33.171 6 6 4338 20230414014150
+162.253.68.143 6 6 21372 20230404183528
+165.232.166.182 6 6 21372 20230409165440
+178.62.74.6 6 6 4338 20230404020523
+52.253.111.131 6 6 21372 20230417073904
+37.139.53.30 6 6 15600 20230405085531
+101.68.211.2 6 6 21372 20230417001646
+103.83.81.189 2 2 7124 20230408020958
+42.83.147.56 2 2 2936 20230417061832
+54.185.224.45 2 2 2936 20230425091935
+159.65.131.45 1 1 0 20230426114235
+163.172.70.215 2 2 7124 20230407010542
+14.29.216.170 2 2 2936 20230402075842
+34.220.156.8 2 2 2936 20230426093120
+69.167.12.30 1 1 0 20230428153539
+199.244.88.231 0 2 551632 
+54.67.21.87 2 2 2936 20230422000122
+51.15.220.242 2 2 0 20230409022616
+54.245.189.28 2 2 2936 20230418083623
+54.189.37.94 2 2 2936 20230402094149
+42.83.147.53 4 4 5872 20230427163809
+54.71.240.65 2 2 2936 20230428104512
+52.255.135.187 2 2 7124 20230428123254
+93.158.91.206 2 2 2936 20230401004730
+198.44.136.60 4 4 14248 20230404042550
+185.85.163.242 2 2 7124 20230425132353
+184.154.139.26 2 5 11373 20230418140453
+20.38.2.237 2 2 7124 20230410125446
+209.146.23.178 2 2 7124 20230408175105
+34.217.134.252 1 1 1468 20230408093406
+104.129.57.100 4 4 14248 20230418223615
+188.165.202.227 1 1 0 20230412001655
+14.29.231.172 2 2 2936 20230414045440
+192.42.116.196 2 2 2936 20230421004041
+5.227.30.30 2 2 7124 20230416064459
+173.255.172.145 1 1 1468 20230404154816
+162.14.115.238 2 2 2936 20230427123931
+65.154.226.166 2 2 2936 20230406142034
+130.255.166.98 2 2 2936 20230419012827
+20.64.210.92 2 2 7124 20230425063814
+42.83.147.54 4 4 5872 20230407090045
+185.199.222.155 1 1 0 20230405093158
+139.162.33.143 4 4 5872 20230405164956
+167.71.231.208 2 2 2936 20230423024503
+191.101.217.64 2 2 7124 20230405063957
+14.116.157.23 2 2 2936 20230401063701
+14.29.182.82 2 2 2936 20230418043640
+170.64.165.26 2 2 7124 20230402095725
+93.158.90.152 2 2 2936 20230428051226
+205.169.39.63 2 2 2936 20230413122647
+35.87.163.225 2 2 2936 20230414184006
+205.169.39.147 4 14 812016 20230418123351
+51.83.21.228 4 4 14248 20230426081523
+178.208.160.71 1 1 0 20230430232523
+167.94.138.36 2 2 2936 20230430074653
+199.244.88.229 2 4 65304 20230429211817
+34.210.32.35 2 2 2936 20230403091212
+199.244.88.221 0 1 72642 
+113.201.148.196 2 3 3756 20230419055947
+162.142.125.217 2 2 2936 20230428223555
+143.198.197.109 1 1 0 20230424234320
+199.244.88.232 0 1 65865 
+113.125.140.19 2 2 2936 20230403050625
+51.255.62.7 2 2 7124 20230405145426
+20.171.47.6 3 3 10686 20230414205037
+20.125.112.223 2 2 7124 20230430202437
+43.163.205.185 4 4 14248 20230429204520
+51.222.97.96 1 1 0 20230419224802
+14.29.231.137 2 2 2936 20230422075022
+165.232.166.184 5 5 17810 20230410031812
+34.219.220.8 2 2 2936 20230430120533
+139.59.85.45 2 2 2936 20230407135359
+185.27.99.113 2 2 2936 20230409233622
+18.130.31.0 2 2 7124 20230420114723
+45.148.232.160 2 2 2936 20230403143139
+205.169.39.136 4 14 812016 20230422173311
+59.36.163.204 2 2 2936 20230429043814
+36.40.66.38 2 2 2936 20230427042459
+183.136.225.45 2 2 7124 20230422090504
+223.247.178.167 2 2 2936 20230405052856
+14.29.246.47 2 2 2936 20230409050907
+52.47.116.178 4 4 14248 20230414134107
+205.210.31.51 2 2 7124 20230401032559
+156.146.56.138 2 2 7124 20230408081210
+223.240.101.111 2 2 2936 20230411040215
+149.56.160.202 2 12 809080 20230420121523
+18.236.87.98 2 2 2936 20230425091910
+34.209.44.80 2 2 2936 20230424091223
+94.247.172.129 2 2 2936 20230416020053
+34.222.55.36 2 2 2936 20230406092542
+140.246.136.252 2 2 2936 20230428043400
+205.210.31.172 2 2 7124 20230404072707
+35.178.196.252 4 4 14248 20230419110339
+117.33.227.207 2 2 2936 20230425044155
+185.207.106.222 2 2 2936 20230401132658
+188.95.65.99 2 2 7124 20230429021131
+194.26.135.17 4 4 5872 20230410111028
+13.230.150.194 2 12 809080 20230426044452
+91.239.157.219 2 2 7124 20230417192014
+184.154.139.16 2 5 11373 20230424140153
+164.152.19.231 2 2 2936 20230422130706
+49.50.10.103 2 2 7124 20230406025635
+89.187.162.185 2 2 7124 20230423061107
+183.136.225.46 4 4 14248 20230425160153
+87.236.176.225 2 2 2936 20230421224751
+14.29.200.97 2 2 2936 20230412045338
+194.163.137.108 4 4 3554 20230404182807
+14.29.140.161 2 2 2936 20230413044410
+54.245.19.173 2 2 2936 20230402093948
+46.228.199.158 2 2 2936 20230417071544
+139.59.229.93 4 4 14248 20230405022211
+199.244.88.226 2 6 56573 20230428232527
+159.223.46.190 2 2 7124 20230402060019
+85.193.95.82 2 3 3756 20230430140709
+35.85.57.106 2 2 2936 20230408093323
+88.198.118.226 2 2 2936 20230401130844
+207.154.197.170 2 2 2936 20230402023904
+143.110.219.54 2 2 2936 20230420031054
+42.83.147.55 2 2 2936 20230410112008
+185.181.60.189 2 2 2936 20230425131607
+167.248.133.38 2 2 2936 20230425130933
+104.244.74.6 2 2 2936 20230414160510
+54.214.112.130 2 2 2936 20230414091339
+198.235.24.166 2 2 7124 20230410165757
+223.247.179.42 4 4 5872 20230426042555
+35.86.254.136 2 2 2936 20230429135712
+35.217.23.130 2 2 2936 20230401231631
+47.98.131.103 2 2 2936 20230406204736
+65.154.226.167 2 12 809080 20230409084540
+109.237.98.235 4 4 5872 20230418011041
+39.103.187.166 3 3 2936 20230419203922
+34.106.247.247 2 2 2936 20230421115743
+170.64.170.150 2 2 7124 20230410130319
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 30
+20230401 20 21 36979 8
+20230402 16 18 37930 7
+20230403 14 16 34994 6
+20230404 37 39 95210 10
+20230405 29 42 879271 11
+20230406 21 23 55136 8
+20230407 8 11 24029 4
+20230408 16 19 54959 8
+20230409 23 36 873013 9
+20230410 25 26 71541 9
+20230411 6 8 14610 2
+20230412 24 27 32356 4
+20230413 14 16 39564 4
+20230414 42 80 2262822 11
+20230415 6 8 19444 2
+20230416 16 17 43671 5
+20230417 20 22 56102 7
+20230418 18 31 849381 6
+20230419 20 33 852400 8
+20230420 16 29 847569 5
+20230421 12 14 23418 5
+20230422 14 27 838981 6
+20230423 8 10 21998 3
+20230424 5 8 14309 3
+20230425 22 24 50662 10
+20230426 15 27 840874 6
+20230427 12 24 829562 5
+20230428 21 32 843123 9
+20230429 16 18 41514 6
+20230430 13 17 35631 7
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 4
+0s-30s 189
+15mn-30mn 1
+30mn-1h 1
+30s-2mn 3
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 7
+/ 449 1134448 192 170
+/DrumKit/DrumKit/ 40 25036 1 16
+/DiceGame/Dicegame/dicee.html 32 17708 0 8
+/test/ 2 618 1 0
+/test/.env.production 2 618 0 0
+/test/.env.local 2 618 0 0
+/test/.env.staging 2 618 0 0
+END_SIDER

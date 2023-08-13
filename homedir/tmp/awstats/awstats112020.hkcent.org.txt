@@ -1,0 +1,556 @@
+AWSTATS DATA FILE 7.7 (build 20180105)
+# If you remove this file, all statistics for date 202011 will be lost/reset.
+# Last config file used to build this data file was /home1/hkcent24/tmp/awstats/awstats.hkcent.org.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2008                
+POS_TIME 2678                
+POS_VISITOR 10763               
+POS_DAY 14447               
+POS_DOMAIN 3442                
+POS_LOGIN 3844                
+POS_ROBOT 3999                
+POS_WORMS 4446                
+POS_EMAILSENDER 4577                
+POS_EMAILRECEIVER 4720                
+POS_SESSION 15185               
+POS_SIDER 15392               
+POS_FILETYPES 4855                
+POS_DOWNLOADS 5064                
+POS_OS 5423                
+POS_BROWSER 5710                
+POS_SCREENSIZE 6758                
+POS_UNKNOWNREFERER 6832                
+POS_UNKNOWNREFERERBROWSER 7195                
+POS_ORIGIN 7444                
+POS_SEREFERRALS 7585                
+POS_PAGEREFS 7750                
+POS_SEARCHWORDS 7958                
+POS_KEYWORDS 8110                
+POS_MISC 2340                
+POS_ERRORS 8169                
+POS_CLUSTER 3700                
+POS_SIDER_404 8295                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20201201042746 159 41830 9964642854567
+FirstTime 0
+LastTime 20201130193926
+LastUpdate 20201201080651 159 0 158 0 0
+TotalVisits 212                 
+TotalUnique 94                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 95                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+DirectorSupport 0 0 0
+RealPlayerSupport 0 0 0
+QuickTimeSupport 0 0 0
+AddToFavourites 0 130 0
+FlashSupport 0 0 0
+TotalMisc 0 0 0
+PDFSupport 0 0 0
+JavaEnabled 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+JavascriptDisabled 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 12 32 166798 1 2 852
+1 28 52 322109 10 18 19165
+2 14 14 38080 4 6 9564
+3 2 2 1378 12 13 42021
+4 2 2 25505 7 8 31369
+5 10 11 132436 20 25 24588
+6 13 15 6439 6 9 26033
+7 31 100 1196979 6 26 23733
+8 62 161 1649911 9 56 47767
+9 10 26 178246 24 29 2699
+10 22 54 388350 16 27 20453
+11 25 41 348105 5 19 6486
+12 38 99 1682893 6 23 12888
+13 72 113 1039790 64 113 133952
+14 55 92 1106015 59 74 147302
+15 22 22 114086 10 18 55172
+16 11 22 53677 9 14 40719
+17 18 36 230250 24 32 103527
+18 18 35 567745 3 10 1764
+19 21 37 700970 16 22 44322
+20 13 22 163690 6 16 34053
+21 8 16 147602 10 17 44545
+22 8 30 617314 16 20 47075
+23 8 8 13796 15 18 60175
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 14
+us 450 936 9285576
+pa 34 34 152583
+gb 18 19 89224
+kr 6 33 918246
+ru 4 4 6653
+hk 2 7 168511
+in 2 2 17765
+se 1 1 852
+de 1 1 7781
+al 1 1 18518
+ph 1 1 13564
+cz 1 1 17765
+nl 1 1 7781
+sa 1 1 7781
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 8
+bot[\s_+:,\.\;\/\\-] 74 297282 20201130075803 0
+Googlebot/ 57 244808 20201130231816 9
+spider 17 114759 20201130140609 0
+facebookexternalhit/ 12 46427 20201127000041 0
+unknown 3 244 20201117053706 3
+bingbot/ 2 1645 20201128070827 0
+Dalvik/ 1 1130 20201123110513 0
+(firefox/)([0-9]\.|[0-1][0]\.) 1 0 20201104222125 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 8
+xml 3 35838 0 0
+css 145 76463 0 0
+html 500 1182134 0 0
+png 354 8995381 0 0
+jpg 4 62001 0 0
+mp3 4 179564 0 0
+Unknown 20 179563 0 0
+js 12 1656 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 7
+/DrumKit/DrumKit/sounds/tom-2.mp3 0 1 36234
+/DrumKit/DrumKit/sounds/kick-bass.mp3 0 1 1568
+/DrumKit/DrumKit/sounds/snare.mp3 0 1 26304
+/DrumKit/DrumKit/sounds/tom-1.mp3 0 1 22859
+/DrumKit/DrumKit/sounds/crash.mp3 0 1 34562
+/DrumKit/DrumKit/sounds/tom-4.mp3 0 1 28490
+/DrumKit/DrumKit/sounds/tom-3.mp3 0 1 29547
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 17
+Unknown 38 37
+macosx9 2 2
+win16 1 1
+unix 13 12
+ios_iphone 19 9
+linuxubuntu 34 34
+winlong 1 1
+macosx10 1 1
+winxp 8 8
+linuxandroid 345 129
+win8.1 3 3
+macosx8 1 1
+macosx 8 1
+linux 42 32
+win7 51 37
+win10 475 208
+ios_ipad 7 7
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 49
+chrome41.0.2225.0 1 1
+firefox59.0 1 1
+chrome80.0.3987.163 34 34
+chrome43.0.2376.69 2 2
+chrome87.0.4280.66 259 73
+chrome86.0.4240.183 29 29
+chrome40.0.2214.115 1 1
+chrome73.0.3683.90 2 2
+chrome78.0.3904.70 1 1
+chrome86.0.4240.77 13 12
+chrome68.0.3440.84 1 1
+iphone 6 1
+chrome35.0.1916.47 2 2
+mozilla 29 28
+safari 7 7
+chrome87.0.4280.67 7 2
+msie6.0 5 5
+chrome78.0.3904.108 5 5
+Unknown 23 23
+safari14.0.1 8 1
+safari13.1.2 6 1
+chrome86.0.4240.111 14 13
+chrome79.0.3945.79 1 1
+chrome83.0.4103.97 3 3
+safari12.1.2 1 1
+chrome45.0.2454.94 4 4
+chrome83.0.4103.61 1 1
+safari13.1.1 1 1
+chrome86.0.4240.75 1 0
+safari14.0 3 3
+firefox54.0 1 1
+firefox82.0 4 4
+chrome68.0.3440.106 1 1
+safari5.0.2 1 1
+chrome56.0.2924.87 5 5
+firefox57.0 1 1
+firefox78.0 1 1
+chrome36.0.1985.67 2 2
+chrome41.0.2228.0 1 1
+msie9.0 42 32
+chrome41.0.2224.3 1 1
+chrome86.0.4240.185 43 43
+chrome34.0.1847.116 1 1
+chrome85.0.4183.121 4 3
+firefox4 4 4
+safari11.0 1 1
+chrome86.0.4240.198 463 160
+chrome67.0.3396.79 1 1
+chrome26.0.1410.65 1 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 5
+Go-http-client/1.1 20201128010616
+CATExplorador/1.0beta_(sistemes_at_domini_dot_cat;_http://domini.cat/catexplorador.html) 20201117160954
+panscient.com 20201129204638
+Mozilla/5.0_(compatible;_ips-agent) 20201105023248
+Mozilla/5.0_(compatible;_Dataprovider.com) 20201108135029
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 3
+panscient.com 20201129204638
+CATExplorador/1.0beta_(sistemes_at_domini_dot_cat;_http://domini.cat/catexplorador.html) 20201117160954
+Go-http-client/1.1 20201128010616
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 384 384
+From1 71 71
+From2 32 42
+From3 3 3
+From4 33 549
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+www_google_com 32 42
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 2
+http://hendersonervals.com 2 2
+http://colcod.com/859B60 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 4
+406 86 19436
+409 1 83
+206 23 176859
+404 173 36211
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 75
+/th1s_1s_a_4o4.html 29 http://www.google.com/url
+/robots.txt 20 -
+/2019/wp-includes/wlwmanifest.xml 1 -
+/rss.xml 2 -
+/public_html/APT41andHumanGreed.mp3 1 -
+/deployment-config.json 1 https://www.google.com/
+/humans.txt 1 -
+/wp-includes/wlwmanifest.xml 1 -
+/old-site/ 1 -
+/public_html/Uploadlinks/PoketmonGoSeason5.mp3 1 -
+/images/drumKit.png 2 http://hkcent.org/
+/wp-config.php_original 1 https://www.google.com/search
+/cms/ 1 -
+/wordpress/wp-includes/wlwmanifest.xml 1 -
+/wordpress/ 1 -
+/profilephoto.png 35 http://hkcent.org/
+/.vscode/sftp.json 1 https://www.google.com/
+/sito/wp-includes/wlwmanifest.xml 1 -
+/cms/wp-includes/wlwmanifest.xml 1 -
+/main/ 1 -
+/web/wp-includes/wlwmanifest.xml 1 -
+/wp-config_good 1 https://www.google.com/search
+/web/ 1 -
+/.remote-sync.json 1 https://www.google.com/
+/site/ 1 -
+/sftp-config.json 1 https://www.google.com/
+/js/mage/cookies.js 1 -
+/wp-config.php_Old 1 https://www.google.com/search
+/wp1/wp-includes/wlwmanifest.xml 1 -
+/ads.txt 5 -
+/home/ 1 -
+/old-wp/ 1 -
+/wp/wp-includes/wlwmanifest.xml 1 -
+/wp-config.php_bak 2 https://www.google.com/search
+/wp1/ 1 -
+/wp2/wp-includes/wlwmanifest.xml 1 -
+/ftpsync.settings 1 https://www.google.com/
+/demo/ 1 -
+/2018/ 1 -
+/wp-config.good 1 https://www.google.com/search
+/old/ 1 -
+/2019/ 1 -
+/tmp/ 1 -
+/wp-config.php_orig 1 https://www.google.com/search
+/test/wp-includes/wlwmanifest.xml 1 -
+/simpla/ 1 -
+/sitemap.xml 3 -
+/dev/ 1 -
+/wp-config.php_ 1 https://www.google.com/search
+/.vscode/ftp-sync.json 1 https://www.google.com/
+/website/wp-includes/wlwmanifest.xml 1 -
+/media/wp-includes/wlwmanifest.xml 1 -
+/profile.php 5 -
+/admin/ 3 -
+/wp-config-good 1 https://www.google.com/search
+/new/ 1 -
+/filemanager/dialog.php 2 -
+/site/wp-includes/wlwmanifest.xml 1 -
+/wp-config.php_1 1 https://www.google.com/search
+/shop/wp-includes/wlwmanifest.xml 1 -
+/blog/ 1 -
+/bk/ 1 -
+/.ftpconfig 1 https://www.google.com/
+/wp/ 1 -
+/login 2 -
+/temp/ 1 -
+/backup/ 1 -
+/2018/wp-includes/wlwmanifest.xml 1 -
+/admin/content/sitetree/ 1 -
+/wordpress/wp-admin/install.php 1 -
+/games 1 -
+/about:blank 1 -
+/manager/ 1 -
+/wp-config.phporiginal 1 https://www.google.com/search
+//wp-admin/install.php 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 95
+76.120.194.55 308 731 6923165 20201130123241
+179.43.171.74 34 34 152583 20201114141608
+34.233.170.90 13 13 41727 20201112195213
+184.154.139.14 9 10 60990 20201129140332
+184.154.36.170 8 10 65588 20201130140611
+172.58.238.200 8 24 148823 20201121140844
+20.55.26.138 5 5 88742 20201112055533
+184.154.139.23 5 9 38041 20201128140933
+184.154.139.26 5 6 41537 20201127141107
+3.233.212.58 4 4 10893 20201127213950
+34.75.108.106 4 4 8029 20201111154422
+54.39.243.183 4 4 3869 20201103084106
+184.154.139.16 4 5 57422 20201126140228
+208.80.194.42 3 3 20334 20201126180325
+51.222.43.124 3 3 51054 20201108134054
+51.222.43.160 3 3 1923 20201106215011
+121.146.172.212 3 15 432993 20201123221752
+51.222.43.125 3 3 1923 20201105063551
+100.26.152.203 3 3 2013 20201127093322
+167.172.0.155 2 2 2478 20201102233949
+124.56.58.11 2 12 337021 20201124084132
+34.75.39.57 2 2 248 20201104135705
+35.227.92.145 2 2 7601 20201108071826
+99.203.17.191 2 2 15456 20201110155042
+66.102.9.89 2 2 15254 20201108172910
+45.61.163.7 1 1 1130 20201121064241
+122.55.94.34 1 1 13564 20201108154827
+209.127.17.22 1 1 1130 20201121151016
+99.203.17.199 1 1 0 20201109141123
+69.171.251.6 1 1 7589 20201109141848
+3.135.240.37 1 2 21245 20201102052139
+159.69.188.40 1 1 7781 20201118205300
+3.135.218.82 1 1 248 20201107073123
+34.222.208.198 1 1 7781 20201114082508
+169.38.85.100 1 1 0 20201102234003
+52.11.244.111 1 1 7781 20201114082617
+51.77.246.67 1 1 248 20201105124543
+138.68.180.18 1 1 248 20201106004836
+216.12.174.124 1 1 248 20201106223501
+51.77.246.201 1 1 248 20201106215554
+24.162.10.147 1 8 475748 20201130193926
+172.58.227.31 1 3 0 20201125144125
+37.9.13.150 1 1 852 20201124155209
+64.233.172.203 1 1 7627 20201108161847
+69.171.251.16 1 1 7700 20201109172158
+159.203.30.140 1 1 0 20201114015549
+208.80.194.41 1 1 17765 20201119144901
+69.25.58.18 1 1 17765 20201118040858
+213.136.85.35 1 1 7781 20201120120441
+211.231.106.30 0 1 3901 
+88.107.185.179 1 1 1239 20201102233856
+165.227.37.219 1 1 0 20201114014527
+89.187.168.147 1 1 17765 20201112021901
+85.208.22.180 1 1 7781 20201117160954
+3.137.211.7 1 1 7781 20201117154825
+100.20.101.78 1 1 852 20201127082725
+99.203.16.49 2 2 0 20201110154810
+192.71.30.89 1 1 852 20201128010616
+37.9.13.68 1 1 3873 20201123125531
+172.58.227.18 2 6 0 20201124134712
+165.22.225.245 1 1 0 20201114015548
+44.232.152.94 1 1 852 20201125130246
+71.176.236.42 2 10 288638 20201123110512
+103.212.147.183 2 2 17765 20201113144630
+64.233.172.207 1 1 7627 20201108161540
+31.171.152.134 1 1 18518 20201109183544
+205.169.39.203 2 2 15562 20201111010128
+173.252.95.23 1 1 7591 20201109133329
+184.154.139.15 1 2 4127 20201124140508
+51.15.1.221 1 1 0 20201112022634
+159.203.36.59 1 1 0 20201114014527
+35.231.215.15 2 2 7781 20201110204414
+39.7.47.60 1 5 144331 20201123215154
+172.58.30.239 1 1 7676 20201109172800
+35.196.157.84 2 2 7781 20201112115031
+64.246.165.170 1 1 248 20201107135638
+72.13.62.27 1 1 248 20201105023248
+103.17.73.7 2 7 168511 20201126192832
+158.222.14.115 1 1 7781 20201117093006
+98.249.13.185 1 5 144321 20201123130716
+66.249.83.204 1 1 7740 20201109150701
+38.122.112.147 2 2 1156 20201101061640
+85.203.44.198 1 1 7781 20201119000311
+72.79.58.112 2 2 1344 20201129204638
+99.203.17.111 1 1 0 20201110160842
+51.77.246.204 1 1 7627 20201108135029
+96.255.149.171 1 6 168511 20201125182129
+38.145.98.232 1 6 168511 20201127224332
+76.102.223.225 2 10 288662 20201123145608
+54.214.200.29 1 1 7781 20201113081739
+185.188.183.179 2 2 1928 20201125103132
+35.196.216.150 2 2 248 20201107014443
+89.238.137.38 1 1 1239 20201102233856
+51.77.129.167 1 2 21245 20201103085023
+68.183.241.134 1 1 1239 20201102233856
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 30
+20201101 6 6 4129 5
+20201102 11 12 30413 10
+20201103 33 36 50670 7
+20201104 6 6 1633 5
+20201105 11 11 4693 8
+20201106 11 11 4300 9
+20201107 14 14 9978 10
+20201108 39 39 211565 18
+20201109 51 51 310522 15
+20201110 16 16 62101 12
+20201111 9 9 72232 7
+20201112 15 15 180942 10
+20201113 7 7 66654 6
+20201114 9 9 48889 9
+20201115 2 2 25494 2
+20201116 1 1 17765 1
+20201117 5 5 48889 5
+20201118 3 3 43311 3
+20201119 4 4 51092 4
+20201120 4 4 52683 4
+20201121 44 105 468096 9
+20201122 3 8 6011 3
+20201123 67 168 2648387 12
+20201124 65 199 2472355 7
+20201125 12 42 680951 7
+20201126 5 16 174566 4
+20201127 10 31 483373 8
+20201128 3 9 4979 3
+20201129 28 87 277206 5
+20201130 29 116 2378285 4
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+0s-30s 185
+1h+ 7
+30s-2mn 6
+5mn-15mn 4
+2mn-5mn 1
+30mn-1h 6
+15mn-30mn 3
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 14
+/ 468 1177704 205 197
+/DiceGame/Dicegame/dicee.html 25 2836 0 6
+/webmail 6 81404 2 3
+/about-us 4 22991 0 0
+/DrumKit/DrumKit/ 4 1018 0 0
+/games 4 30860 2 1
+/blog/cybersecurity 4 23044 0 1
+/secondpage.html 2 267 0 0
+/cpanel 1 13564 1 1
+/blog/why-your-titles-should-be-no-longer-than-this 1 7700 1 1
+/test/ 1 309 0 1
+/feed.xml 1 391 1 0
+/blog/wp-includes/wlwmanifest.xml 1 17682 0 0
+/news/wp-includes/wlwmanifest.xml 1 17765 0 1
+END_SIDER

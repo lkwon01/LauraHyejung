@@ -1,0 +1,459 @@
+AWSTATS DATA FILE 7.8 (build 20200416)
+# If you remove this file, all statistics for date 202206 will be lost/reset.
+# Last config file used to build this data file was /home1/hkcent24/tmp/awstats/ssl/awstats.hkcent.org.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2012                
+POS_TIME 2672                
+POS_VISITOR 10743               
+POS_DAY 12755               
+POS_DOMAIN 3347                
+POS_LOGIN 3713                
+POS_ROBOT 3868                
+POS_WORMS 4111                
+POS_EMAILSENDER 4242                
+POS_EMAILRECEIVER 4385                
+POS_SESSION 13277               
+POS_SIDER 13434               
+POS_FILETYPES 4520                
+POS_DOWNLOADS 4670                
+POS_OS 5029                
+POS_BROWSER 5263                
+POS_SCREENSIZE 5946                
+POS_UNKNOWNREFERER 6020                
+POS_UNKNOWNREFERERBROWSER 6478                
+POS_ORIGIN 6845                
+POS_SEREFERRALS 6978                
+POS_PAGEREFS 7163                
+POS_SEARCHWORDS 7354                
+POS_KEYWORDS 7506                
+POS_MISC 2335                
+POS_ERRORS 7565                
+POS_CLUSTER 3569                
+POS_SIDER_404 7701                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20220701071238 1 0 12231188958080
+FirstTime 0
+LastTime 20220630173246
+LastUpdate 20220702084313 1 0 0 0 0
+TotalVisits 55                  
+TotalUnique 48                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 52                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+PDFSupport 0 0 0
+FlashSupport 0 0 0
+QuickTimeSupport 0 0 0
+JavascriptDisabled 0 0 0
+TotalMisc 0 0 0
+JavaEnabled 0 0 0
+RealPlayerSupport 0 0 0
+DirectorSupport 0 0 0
+AddToFavourites 0 30 0
+WindowsMediaPlayerSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 4 4 14248 17 30 70086
+1 4 4 10060 8 13 9841
+2 4 4 10060 31 33 13757
+3 2 2 2936 5 18 1927
+4 12 13 16118 84 86 3314
+5 0 0 0 7 14 68411
+6 6 6 17184 6 10 3055
+7 0 0 0 22 22 4063
+8 6 6 11528 8 12 4186
+9 18 18 26424 5 23 4339
+10 1 1 1468 5 9 780
+11 4 4 10060 12 24 461
+12 3 3 4404 6 6 6324
+13 8 33 1379569 31 36 5549
+14 7 8 6655 13 18 10092
+15 8 19 822925 9 13 1382
+16 6 6 12996 24 30 6523
+17 5 5 4404 5 7 328
+18 4 24 1618160 4 12 4728
+19 2 2 2936 9 16 552741
+20 2 2 2936 14 18 13653
+21 4 4 10060 4 14 273
+22 2 2 2936 2 7 722
+23 3 13 810548 28 40 5145
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 11
+us 72 100 1308541
+de 10 10 14680
+ca 8 18 830452
+ru 8 8 13614
+cn 4 4 14248
+jp 4 14 812016
+gb 3 3 4404
+co 2 12 809080
+in 2 2 2936
+cr 2 3 3756
+br 0 9 805324
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 3
+bingbot/ 36 714594 20220628055751 0
+YandexBot/ 17 21622 20220630030509 0
+no_user_agent 2 7124 20220621200941 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 5
+html 113 198608 0 0
+png 56 4232050 0 0
+Unknown 2 618 0 0
+css 8 5632 0 0
+js 4 2579 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 7
+/DrumKit/DrumKit/sounds/tom-4.mp3 0 1 28490
+/DrumKit/DrumKit/sounds/tom-2.mp3 0 1 36234
+/DrumKit/DrumKit/sounds/kick-bass.mp3 0 1 1568
+/DrumKit/DrumKit/sounds/crash.mp3 0 1 34562
+/DrumKit/DrumKit/sounds/snare.mp3 0 1 26304
+/DrumKit/DrumKit/sounds/tom-3.mp3 0 1 29547
+/DrumKit/DrumKit/sounds/tom-1.mp3 0 1 22859
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 12
+macosx10 4 4
+Unknown 12 12
+androidnougat 4 4
+linuxubuntu 2 2
+win10 93 31
+macosx15 10 10
+android 12 2
+androidkitkat 2 2
+androidpie 2 2
+win7 6 4
+macosx11 4 4
+linux 39 38
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 31
+firefox88.0 12 2
+chrome60.0.3112.107 4 4
+chrome102.0.5005.124 38 6
+firefox47.0 8 8
+chrome61.0.3163.79 2 2
+chrome100.0.4896.127 2 2
+Unknown 6 6
+chrome92.0.4515.107 2 2
+chrome102.0.5005.63 12 2
+chrome89.0.4389.82 5 4
+chrome70.0.3538.80 2 2
+mozilla 6 6
+chrome91.0.4472.114 4 4
+firefox60.0 2 2
+chrome45.0.2454.85 4 4
+chrome66.0.3359.139 2 2
+chrome90.0.4430.85 2 2
+firefox90.0 3 3
+chrome57.0.2987.110 2 2
+chrome42.0.2311.90 4 4
+firefox52.0 2 2
+firefox84.0 10 10
+firefox55.0 2 2
+safari14.1.2 1 1
+msie9.0 2 0
+chrome103.0.0.0 24 4
+chrome58.0.3029.110 2 2
+chrome92.0.4515.131 3 3
+android 2 2
+chrome83.0.4103.97 18 18
+chrome91.0.4472.124 2 2
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 2
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20220607080138
+Mozilla/5.0_(compatible;_CensysInspect/1.1;__https://about.censys.io/) 20220628201121
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 1
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20220607080138
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 97 98
+From1 4 4
+From2 4 6
+From3 2 2
+From4 8 80
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 2
+www_google_com 0 2
+www_google_com_hk 4 4
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 1
+https://ctacwebconsole.dms.appgate.com 2 2
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 5
+409 5 415
+400 29 1456
+406 104 23504
+206 6 8808
+404 282 4709
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 82
+/credentials/credentials 2 -
+/___proxy_subdomain_webmail/ 7 http://www.google.com.hk
+/WP 2 www.google.com
+/demo 2 www.google.com
+/robots.txt 83 -
+/___proxy_subdomain_cpcalendars/ojidtujs.php 1 www.google.com
+/blogs 2 www.google.com
+/dghhkbbv.php 1 www.google.com
+/urscskyt.php 1 www.google.com
+/___proxy_subdomain_webdisk/urscskyt.php 1 www.google.com
+/src/environments/environment.ts 4 -
+/___proxy_subdomain_cpcalendars/ 1 -
+/123 2 www.google.com
+/environments/environment.ts 4 -
+/wp 2 www.google.com
+/Demo 2 www.google.com
+/___proxy_subdomain_webdisk/tiodappc.php 1 www.google.com
+/bkp 2 www.google.com
+/blog 2 www.google.com
+/BACKUP 2 www.google.com
+/.git/config 5 -
+/wp-plain.php 10 www.google.com
+/newsite 2 www.google.com
+/zbfmqvkp.php 2 www.google.com
+/uffxnqcf.php 2 www.google.com
+/preview.php 2 -
+/___proxy_subdomain_webmail/sitemap.xml 1 -
+/Hkcent 2 www.google.com
+/Backup 2 www.google.com
+/biwpnmto.php 2 www.google.com
+/old 2 www.google.com
+/___proxy_subdomain_cpcontacts/dghhkbbv.php 1 www.google.com
+/vqczphsv.php 1 www.google.com
+/___proxy_subdomain_cpcontacts/robots.txt 5 -
+/backup-core 2 www.google.com
+/ojidtujs.php 1 www.google.com
+/___proxy_subdomain_cpcontacts/.git/config 1 -
+/home 2 www.google.com
+/credentials 2 -
+/ 19 http://www.google.com.hk
+/2020 2 www.google.com
+/wp-admin/admin-ajax.php 1 www.google.com
+/sitemap.xml 1 -
+/___proxy_subdomain_cpcontacts/ 2 -
+/2015 2 www.google.com
+/old_files 4 www.google.com
+/site 2 www.google.com
+/___proxy_subdomain_cpcalendars/.git/config 1 -
+/oldwebsite 2 www.google.com
+/old-site 2 www.google.com
+/old_core 2 www.google.com
+/dev 2 www.google.com
+/wp-content/uploads/typehub/custom/ipneljku/.sp3ctra_XO.php 2 www.google.com
+/wordpress 2 www.google.com
+/id=q6P8tFLJfzJtsSy8fH9HQ4UXGebd26KShgnr7dqtEFbBp5ckxPVQ3myDCTFmzcJaQMX8ETty 2 https://mangohost.net/user/tickets/ticket/1861
+/owa/auth/logon.aspx 4 -
+/___proxy_subdomain_webmail/robots.txt 6 -
+/backup 2 www.google.com
+/hkcent 2 www.google.com
+/___proxy_subdomain_cpanel/robots.txt 5 -
+/___proxy_subdomain_webdisk/ 2 -
+/cms 2 www.google.com
+/new1 2 www.google.com
+/___proxy_subdomain_webdisk/vqczphsv.php 1 www.google.com
+/bkp_site 2 www.google.com
+/___proxy_subdomain_webdisk/robots.txt 4 -
+/bkp2 2 www.google.com
+/WORDPRESS 2 www.google.com
+/copy 2 www.google.com
+/wordpress-old 2 www.google.com
+/zkrshjhf.php 2 www.google.com
+/old.file 2 www.google.com
+/___proxy_subdomain_cpcontacts/iycfvkts.php 1 www.google.com
+/new 2 www.google.com
+/dup-installer/main.installer.php 2 -
+/iycfvkts.php 1 www.google.com
+/___proxy_subdomain_webdisk/.git/config 1 -
+/tiodappc.php 1 www.google.com
+/Old 2 www.google.com
+/WordPress 2 www.google.com
+/___proxy_subdomain_cpcalendars/robots.txt 5 -
+/___proxy_subdomain_cpanel/ 2 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 52
+137.226.113.44 10 10 14680 20220630173246
+52.211.11.115 6 6 4338 20220601143716
+172.245.119.59 6 6 21372 20220627022911
+136.226.51.101 6 38 1197069 20220622134658
+107.150.46.166 4 4 5872 20220626020247
+144.91.106.14 4 5 6692 20220619040452
+81.177.175.244 4 4 3554 20220626042454
+52.14.170.2 4 4 5872 20220616160708
+35.89.156.72 2 2 2936 20220610093852
+126.56.197.154 2 12 809080 20220627182736
+205.210.31.128 2 2 7124 20220603212234
+34.217.64.68 2 2 2936 20220614092647
+207.244.241.132 2 2 7124 20220626061714
+162.142.125.7 2 2 2936 20220628201121
+5.226.142.199 2 2 2936 20220628155847
+13.48.132.195 2 2 2936 20220618135758
+64.99.243.216 2 12 809080 20220609234004
+103.170.255.16 2 2 2936 20220623173515
+54.244.56.233 2 2 2936 20220602092930
+191.95.165.240 2 12 809080 20220630153451
+45.79.138.251 2 2 2936 20220606224009
+221.130.37.175 2 2 7124 20220623163839
+205.210.31.26 2 2 7124 20220607080138
+46.161.11.212 2 2 2936 20220628083735
+52.39.70.39 2 2 2936 20220622095238
+20.216.169.230 1 1 1468 20220615122947
+54.209.47.187 1 1 0 20220610175131
+184.154.36.170 0 1 849 
+3.99.45.203 1 1 0 20220607083157
+18.234.104.57 1 1 0 20220609171838
+34.216.0.199 1 1 1468 20220606091716
+181.189.88.25 2 3 3756 20220627183051
+184.154.139.26 0 1 849 
+200.203.130.42 0 6 662916 
+167.248.133.118 2 2 2936 20220618040811
+198.235.24.35 2 2 7124 20220605014321
+54.225.58.183 2 2 7124 20220616115256
+185.163.110.88 2 2 7124 20220629061639
+54.214.124.128 2 2 2936 20220626094918
+101.68.211.2 2 2 7124 20220615151228
+167.248.133.46 2 2 2936 20220622043121
+34.140.221.150 2 2 2936 20220606060329
+128.199.13.178 1 1 1468 20220629081931
+187.63.95.159 0 3 142408 
+20.111.48.44 1 1 1468 20220620142331
+20.197.180.8 1 1 1468 20220616235537
+34.219.73.14 1 1 1468 20220612091111
+13.38.244.96 2 2 2936 20220620120315
+34.215.117.82 2 2 2936 20220612091035
+34.215.195.151 2 2 2936 20220629092332
+43.204.139.92 2 2 2936 20220619013037
+35.89.49.239 2 2 2936 20220606091711
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 22
+20220601 6 7 5187 1
+20220602 2 3 3785 1
+20220603 4 4 10060 2
+20220605 2 2 7124 1
+20220606 7 7 10276 4
+20220607 3 3 7124 2
+20220609 5 15 812016 3
+20220610 3 3 2936 2
+20220612 3 3 4404 2
+20220614 2 2 2936 1
+20220615 3 3 8592 2
+20220616 9 9 17400 4
+20220618 4 4 5872 2
+20220619 8 9 12564 3
+20220620 4 4 5872 3
+20220622 10 35 1382505 3
+20220623 5 5 11528 3
+20220626 10 10 16550 4
+20220627 10 30 1639532 4
+20220628 6 6 8808 3
+20220629 5 5 11528 3
+20220630 4 14 812016 2
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 2
+30s-2mn 1
+0s-30s 54
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 4
+/ 105 195804 55 52
+/DiceGame/Dicegame/dicee.html 4 1436 0 1
+/DrumKit/DrumKit/ 4 1368 0 1
+/test 2 618 0 1
+END_SIDER

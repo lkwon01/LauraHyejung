@@ -1,0 +1,336 @@
+AWSTATS DATA FILE 7.8 (build 20200416)
+# If you remove this file, all statistics for date 202308 will be lost/reset.
+# Last config file used to build this data file was /home1/hkcent24/tmp/awstats/ssl/awstats.hkcent.org.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2012                
+POS_TIME 2679                
+POS_VISITOR 7929                
+POS_DAY 9325                
+POS_DOMAIN 3290                
+POS_LOGIN 3600                
+POS_ROBOT 3755                
+POS_WORMS 4042                
+POS_EMAILSENDER 4173                
+POS_EMAILRECEIVER 4316                
+POS_SESSION 9636                
+POS_SIDER 9783                
+POS_FILETYPES 4451                
+POS_DOWNLOADS 4534                
+POS_OS 4582                
+POS_BROWSER 4755                
+POS_SCREENSIZE 5072                
+POS_UNKNOWNREFERER 5146                
+POS_UNKNOWNREFERERBROWSER 5666                
+POS_ORIGIN 6033                
+POS_SEREFERRALS 6165                
+POS_PAGEREFS 6328                
+POS_SEARCHWORDS 6476                
+POS_KEYWORDS 6628                
+POS_MISC 2342                
+POS_ERRORS 6687                
+POS_CLUSTER 3456                
+POS_SIDER_404 6808                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20230812030044 47 10356 11034506480542
+FirstTime 0
+LastTime 20230812030044
+LastUpdate 20230812075005 47 0 47 0 0
+TotalVisits 40                  
+TotalUnique 34                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 34                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+FlashSupport 0 0 0
+DirectorSupport 0 0 0
+TotalMisc 0 0 0
+RealPlayerSupport 0 0 0
+JavaEnabled 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+PDFSupport 0 0 0
+AddToFavourites 0 19 0
+JavascriptDisabled 0 0 0
+QuickTimeSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 2 2 684 0 0 0
+1 2 2 2898 7 10 3313
+2 4 4 9924 3 8 171
+3 4 4 9924 4 10 3636
+4 0 0 0 7 9 188
+5 0 0 0 8 8 136
+6 4 4 14052 4 10 10628
+7 6 6 8694 4 8 3066
+8 0 0 0 2 7 572
+9 6 6 12822 4 8 7939
+10 2 2 2898 6 10 3636
+11 6 6 8694 18 23 5512
+12 2 2 2898 6 12 806
+13 8 8 11592 3 5 944
+14 4 4 5796 5 5 712
+15 0 0 0 7 7 746
+16 4 4 5796 10 21 6494
+17 0 0 0 3 4 277
+18 2 2 2898 4 6 102
+19 8 8 4300 4 8 808
+20 6 6 21078 0 10 3907
+21 6 6 12822 7 13 5949
+22 4 4 5796 5 13 5949
+23 14 14 28542 3 9 755
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 8
+us 70 70 119590
+cn 6 6 21078
+ru 4 4 5796
+ca 4 4 14052
+de 4 4 5796
+ua 2 2 2898
+se 2 2 2898
+gb 2 2 0
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 4
+bingbot/ 19 23510 20230811204621 0
+YandexBot/ 11 15939 20230806115523 0
+facebookexternalhit/ 2 7026 20230809063232 0
+no_user_agent 2 7026 20230805094131 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 1
+html 94 172108 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 8
+linux 22 22
+linuxubuntu 26 26
+android10 2 2
+android 2 2
+macosx11 6 6
+win10 18 18
+Unknown 10 10
+macosx15 8 8
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 14
+chrome92.0.4515.131 2 2
+netscape5.0 4 4
+chrome100.0.4896.60 12 12
+chrome83.0.4103.97 6 6
+firefox106.0 2 2
+chrome105.0.0.0 4 4
+chrome108.0.0.0 16 16
+firefox47.0 6 6
+chrome114.0.0.0 8 8
+mozilla 2 2
+Unknown 4 4
+chrome84.0.4147.89 2 2
+firefox114.0 2 2
+firefox28.0 24 24
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 3
+Mozilla/5.0_(compatible;_CensysInspect/1.1;__https://about.censys.io/) 20230809165850
+Mozilla/5.0_researchscan.comsys.rwth-aachen.de 20230811134319
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20230808213812
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 1
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20230808213812
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 92 92
+From1 0 0
+From2 2 2
+From3 0 0
+From4 0 0
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+www_google_com 2 2
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 4
+404 138 2346
+400 17 884
+409 1 83
+406 15 3390
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 25
+/___proxy_subdomain_cpcalendars/robots.txt 2 -
+/___proxy_subdomain_webmail/ 1 -
+/robots.txt 48 -
+/.git/config 4 -
+//youglish.com/public/emb/widget.js 1 -
+/shell20211028.php 4 www.google.com
+/wp-includes/Requests/Text/admin.php 2 www.google.com
+/___proxy_subdomain_webdisk/ 1 -
+//translate.google.com/translate_a/element.js 1 -
+/xxl.php 2 www.google.com
+/___proxy_subdomain_webmail/robots.txt 2 -
+/sitemap_index.xml 8 -
+/___proxy_subdomain_cpcontacts/ 2 -
+/sitemap.xml.gz 4 -
+/wp-json/wp/v2/users/1 6 -
+/wp-content/themes/finley/min.php 2 www.google.com
+/___proxy_subdomain_cpcalendars/ 7 -
+/ 12 -
+/sitemap.xml 8 -
+/xmlrpc.php 2 -
+/___proxy_subdomain_cpanel/robots.txt 2 -
+/___proxy_subdomain_cpcontacts/robots.txt 2 -
+/___proxy_subdomain_cpanel/ 1 -
+/sitemap.txt 12 -
+/___proxy_subdomain_webdisk/robots.txt 2 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 34
+54.88.179.33 8 8 28104 20230811233958
+139.177.203.160 8 8 11592 20230811213234
+183.136.225.44 4 4 14052 20230810091425
+45.80.158.126 4 4 5796 20230805234128
+137.226.113.44 4 4 5796 20230811134319
+54.37.237.164 4 4 5796 20230808111510
+45.33.26.110 4 4 5796 20230806220955
+139.144.171.244 4 4 5796 20230806095204
+35.171.144.152 4 4 14052 20230811233957
+183.136.225.45 2 2 7026 20230807202958
+24.199.87.70 2 2 718 20230806195726
+51.15.247.31 2 2 0 20230809191223
+44.198.55.103 2 2 2898 20230807180513
+167.248.133.38 2 2 2898 20230809165850
+35.88.184.21 2 2 2898 20230808122740
+138.197.108.61 2 2 2898 20230804162643
+138.197.110.193 2 2 2898 20230802141150
+95.217.191.48 2 2 2898 20230801073712
+134.209.148.216 2 2 2898 20230805231500
+138.68.169.128 2 2 2898 20230810133134
+93.158.91.32 2 2 2898 20230804195557
+165.22.237.30 2 2 684 20230802002310
+35.90.225.209 2 2 2898 20230801104650
+198.235.24.228 2 2 7026 20230808213812
+46.48.13.161 2 2 2898 20230810231141
+159.65.203.51 2 2 2898 20230808145706
+143.198.235.230 2 2 2898 20230806132316
+18.237.152.157 2 2 2898 20230810114014
+24.199.100.169 2 2 684 20230802190557
+194.67.105.160 2 2 2898 20230804231157
+134.122.89.42 2 2 2898 20230806011725
+205.210.31.54 2 2 7026 20230805022737
+159.203.105.255 2 2 2898 20230812030044 20230812030044 /
+134.209.84.62 2 2 2898 20230807025148
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 12
+20230801 4 4 5796 2
+20230802 6 6 4266 3
+20230803 6 6 21078 3
+20230804 8 8 11592 4
+20230805 8 8 15720 3
+20230806 14 14 18106 5
+20230807 6 6 12822 3
+20230808 14 14 32670 5
+20230809 4 4 2898 2
+20230810 8 8 15720 4
+20230811 14 14 28542 5
+20230812 2 2 2898 1
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 1
+0s-30s 39
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 3
+/ 88 170022 37 36
+/DrumKit/DrumKit/ 4 1368 2 2
+/DiceGame/Dicegame/dicee.html 2 718 1 1
+END_SIDER
